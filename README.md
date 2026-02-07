@@ -20,7 +20,7 @@ Features:
 - Professional formatting and callouts
 
 Files:
-- [Excel Dashboard](projects/excel-charting/advanced_charts.xlsx)
+- [Excel Data](projects/excel-charting/advanced_charts.xlsx)
 - [Dashboard Screenshot](projects/excel-charting/dashboard_screenshot.png)
 
 Key Insights:
